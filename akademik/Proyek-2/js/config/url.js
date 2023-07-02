@@ -1,0 +1,1 @@
+export let URLProyek2 = "https://proyek-2.herokuapp.com/kursus";
