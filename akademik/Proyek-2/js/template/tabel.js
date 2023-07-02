@@ -10,7 +10,7 @@ export let rowtabel = `<tr class="h-18 border-b border-coolGray-100">
   </div>
 </th>
 <th class="whitespace-nowrap px-4 bg-white text-sm font-medium text-coolGray-800 text-left">#gender#</th>
-#eml#
+#pgr#
 <th class="whitespace-nowrap px-4 bg-white text-sm font-medium text-green-500 text-left">#nohp#</th>
 <th class="whitespace-nowrap pr-4 bg-white text-sm font-medium text-coolGray-800">
 </th>
@@ -19,4 +19,4 @@ export let rowtabel = `<tr class="h-18 border-b border-coolGray-100">
 export let svg = `<div class="flex items-center justify-center w-10 h-10 text-base font-medium text-yellow-600 bg-#WARNA#-200 rounded-md">PS</div>`
 
 
-export let eml = `<th class="whitespace-nowrap px-4 bg-white text-sm font-medium text-#col#-500 text-center">#email#</th>`
+export let pgr = `<th class="whitespace-nowrap px-4 bg-white text-sm font-medium text-#col#-500 text-center">#email#</th>`
